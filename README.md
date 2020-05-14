@@ -11,4 +11,9 @@ To download the extension : https://chrome.google.com/webstore/detail/fatkun-bat
 
 Now we will download 300 images of person wearing Mask and without Mask 
 
+One of the best site to download Images: https://generated.photos/faces#
+
+We are done with Dataset Collection now.
+Create two seperate folder mask and NoMask. Save all downloaded images in that folder. 
+
 
